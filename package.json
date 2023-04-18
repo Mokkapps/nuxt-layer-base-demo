@@ -1,5 +1,5 @@
 {
-  "name": "@mokkapps/nuxt-base",
+  "name": "@mokkapps/nuxt-base-demo",
   "type": "module",
   "version": "0.0.1",
   "main": "./nuxt.config.ts",
