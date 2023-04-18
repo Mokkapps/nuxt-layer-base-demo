@@ -1,5 +1,5 @@
 {
-  "name": "my-nuxt-layer",
+  "name": "nuxt-base-layer",
   "type": "module",
   "version": "0.0.1",
   "main": "./nuxt.config.ts",
@@ -14,8 +14,8 @@
   "devDependencies": {
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxtjs/tailwindcss": "^6.6.6",
-    "eslint": "^8.28.0",
-    "nuxt": "^3.0.0",
-    "typescript": "^4.9.3"
+    "eslint": "^8.38.0",
+    "nuxt": "^3.4.1",
+    "typescript": "^5.0.4"
   }
 }
